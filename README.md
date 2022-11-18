@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @fluxcoder4
-- 👀 I’m interested in programming and coding.
+- 👋 Hi, I’m flux.
+- 👀 I’m interested in programming and coding;
 - 🌱 I’m currently learning python...
 
 <!---
